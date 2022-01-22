@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927746.png?token=exp=1642848267~hmac=b8763d93ab4a46c7fa57e46c9db09530" />][website]
-[<img align="left" alt="Sarath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Sarath | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
 [<img align="left" alt="Sarath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sarath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
