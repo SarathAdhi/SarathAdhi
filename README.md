@@ -39,9 +39,11 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: My GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+  1. Excel to database
+  2. APIs
 <!--END_SECTION:activity-->
 
 </details>
