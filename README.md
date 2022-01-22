@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary>:zap:### All My Website Links</summary>
+  <summary>:zap: All My Website Links</summary>
 
   # My portfolio  -> [https://sarathadhi.netlify.app]
   # HelperDOC     -> [https://helperdoc.herokuapp.com/]
