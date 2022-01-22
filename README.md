@@ -1,4 +1,4 @@
-### Hi there, I'm Sarath Adhithya - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Sarath Adhithya --> [Sarath][website] 👋 
 
 [![Website](https://sarathadhi.netlify.app/)](https://sarathadhi.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=AdhithyaSarath)
