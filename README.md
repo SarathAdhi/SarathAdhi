@@ -1,13 +1,13 @@
-### Hi there, I'm Sarath Adhithya --> [Sarath][website] 👋 
+### Hi there, I'm Sarath Adhithya --> [❤Click me❤][website] 👋 
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdhithyaSarath?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdhithyaSarath)
 
 ## I'm a Web-Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything related to Web dev 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Interest: Love to play cricket, web designing.
 
 ### Connect with me:
 
@@ -39,8 +39,6 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#46](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/46) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
 <!--END_SECTION:activity-->
 
 </details>
