@@ -51,7 +51,7 @@
 <details>
   <summary>:zap: All My Website Links</summary>
 
-  (My portfolio: )[https://sarathadhi.netlify.app]
+  #My portfolio: [here][https://sarathadhi.netlify.app]
 
 </details>
 
