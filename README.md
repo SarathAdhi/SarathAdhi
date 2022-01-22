@@ -1,6 +1,6 @@
 ### Hi there, I'm Sarath Adhithya --> [Sarath][website] 👋 
 
-[![Website](https://img.shields.io/website?label=sarathadhithya.herokuapp.com&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.herokuapp.com)](https://sarathadhi.netlify.app/)
+[![Website](https://img.shields.io/website?label=Sarath Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdhithyaSarath?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdhithyaSarath)
 
 ## I'm a Developer!!
