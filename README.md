@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarath Adhithya --> [Sarath][website] 👋 
 
 [![Website](https://www.freepik.com/free-photo/global-searching-icon-white-background_3540696.htm#query=website%20icon&position=3&from_view=keyword)](https://sarathadhi.netlify.app/)
-[![Twitter Follow]()](https://twitter.com/AdhithyaSarath)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AdhithyaSarath?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdhithyaSarath)
 
 ## I'm a Developer!!
 
