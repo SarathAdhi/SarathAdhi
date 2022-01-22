@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarath Adhithya --> [Sarath][website] 👋 
 
 [![Website](https://sarathadhi.netlify.app/)](https://sarathadhi.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdhithyaSarath)
+[![Twitter Follow]()](https://twitter.com/AdhithyaSarath)
 
 ## I'm a Developer!!
 
