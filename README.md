@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="sarathadhi.netlify.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sarathadhi.netlify.app" width="22px" src="https://www.flaticon.com/premium-icon/world-wide-web_1927746?term=web&page=1&position=20&page=1&position=20&related_id=1927746&origin=tag" />][website]
 [<img align="left" alt="Sarath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sarath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sarath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
