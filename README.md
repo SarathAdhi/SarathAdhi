@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarath Adhithya --> [❤Click me❤][website] 👋 
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AdhithyaSarath?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AdhithyaSarath)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=gotham" alt="Sarath | Stats" />
 
 ## I'm a Web-Developer !!
 
