@@ -1,7 +1,7 @@
 ### Hi there, I'm Sarath Adhithya --> [❤Click me❤][website] 👋 
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=gotham" alt="Sarath | Stats" />
+
 
 ## I'm a Web-Developer !!
 
@@ -45,7 +45,7 @@
   1. Excel to database
   2. APIs
 <!--END_SECTION:activity-->
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=gotham" alt="Sarath | Stats" />
 </details>
 
 <details>
