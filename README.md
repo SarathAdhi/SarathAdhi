@@ -16,6 +16,8 @@
 - 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> SERVER-> APIS-> MONGODB
 - 🤫 One SECRET advice - JUST FOCUS, IGNORE 🥲
 
+## Checkout my BLOG<img src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" >
+
 ### Connect with me:
 
 [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
