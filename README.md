@@ -6,7 +6,8 @@
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
 ## 🤏Short note about me
-
+- 🤱👅 தமிழ் (Tamil)
+- <img height="25px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png">SJPS to VITC
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
