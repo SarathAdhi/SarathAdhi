@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
-## I'm a Web-Developer !!
+## 👨‍💻I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
 - 📝 My learning path - HTML CSS PHP JAVASCRIPT REACT JQUERY
