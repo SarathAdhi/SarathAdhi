@@ -16,6 +16,8 @@
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi" alt="Sarath | Most-used-language" /></p>
+
 ### Connect with me:
 
 [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
