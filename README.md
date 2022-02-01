@@ -14,7 +14,7 @@
 
 - 📚 I’m currently learning everything related to Web dev 🤣
 - 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> SERVER-> APIS-> MONGODB
-- 🤫 One SECRET advice - JUST FOCUS, IGNORE 🥲
+- 🤫 One SECRET advice - JUST FOCUS & IGNORE 🥲
 
 ## Checkout my BLOG  <img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" >
 
