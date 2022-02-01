@@ -6,15 +6,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
 ## 🤏Short note about me
-- 📚 I’m currently learning everything related to Web dev 🤣
+
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
 ## I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
-- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
-- ⚡ Hobbies: cricket, web designing, planting, video editing.
 
 ### Connect with me:
 
