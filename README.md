@@ -11,7 +11,8 @@
 <img height="50px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png"><br/>
 TO
 <br/><img height="50px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg">
-  </p>
+</p>
+<br/>
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
