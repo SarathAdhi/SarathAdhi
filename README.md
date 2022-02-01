@@ -13,7 +13,7 @@
 ## 👨‍💻I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
-- 📝 My learning path - HTML CSS PHP JAVASCRIPT REACT JQUERY
+- 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> MONGODB
 - 🤫 One SECRET advice - JUST FOCUS, IGNORE 🥲
 
 ### Connect with me:
