@@ -14,6 +14,7 @@ TO
 </p>
 <br/>
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
+<br/>
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
 ## 👨‍💻I'm a Web-Developer !!
