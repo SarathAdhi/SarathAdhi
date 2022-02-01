@@ -5,10 +5,15 @@
 <br/>
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
+## 🤏Short note about me
+- 📚 I’m currently learning everything related to Web dev 🤣
+- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
+- ⚡ Hobbies: cricket, web designing, planting, video editing.
+
 ## I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
-- 🥅 2022 Goals: Should eat in proper time, contribute to more projects.
+- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
 ### Connect with me:
@@ -47,7 +52,7 @@
   1. Excel to database
   2. APIs
 <!--END_SECTION:activity-->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=gotham" alt="Sarath | Stats" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" /></p>
 </details>
 
 <details>
