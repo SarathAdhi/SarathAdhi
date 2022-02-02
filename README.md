@@ -69,10 +69,10 @@
 <details>
   <summary>:zap: All My Website Links</summary>
 
-  ## My portfolio  -> [https://sarathadhi.netlify.app]
-  ## HelperDOC     -> [https://helperdoc.herokuapp.com/]
-  ## HoldUrBook    -> [https://holdyourbook.herokuapp.com/index.php]
-  ## Quiz          -> [https://sarathadhi.github.io/Quiz_js_API/]
+  ## My portfolio  -> https://sarathadhi.netlify.app
+  ## HelperDOC     -> https://helperdoc.herokuapp.com/
+  ## HoldUrBook    -> https://holdyourbook.herokuapp.com/index.php
+  ## Quiz          -> https://sarathadhi.github.io/Quiz_js_API/
   ## CodesInfo     -> Currently working
   ## Blog          -> Currently working
 
