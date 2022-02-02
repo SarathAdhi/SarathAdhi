@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
+<link href="styles.css" rel="stylesheet"></link>
 
 ### Hi there 👋 , I'm Sarath Adhithya --> [❤Click me❤][website] 
 
