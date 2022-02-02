@@ -1,5 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
-
 ### Hi there 👋 , I'm Sarath Adhithya --> [❤Click me❤][website] 
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
@@ -10,8 +8,9 @@
 ## 🤏Short note about me
 - 🤱👅 தமிழ் (Tamil)
 - <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg" title="My College">
-- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration
-- ⚡ Hobbies: cricket, web designing, planting, video editing
+- 
+- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaborations.
+- ⚡ Hobbies: cricket, web designing, planting, video editing.
 
 
 ## 👨‍💻I'm a Web-Developer !!
