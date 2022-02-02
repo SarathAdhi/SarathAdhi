@@ -13,9 +13,9 @@
 
 <h1 id="heading"></h1>
 
-```js
+<script>
   document.getElementbyId('heading').innerHTML = "Hello";
-    ```
+</script>
 
 
 ## 👨‍💻I'm a Web-Developer !!
