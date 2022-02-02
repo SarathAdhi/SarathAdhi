@@ -8,8 +8,8 @@
 ## 🤏Short note about me
 - 🤱👅 தமிழ் (Tamil)
 <p align="center">
-<img height="50px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png"><br/>
-TO
+<h2>School</h2><img height="50px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png"><br/>
+
 <br/><img height="50px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg">
 </p>
 <br/>
