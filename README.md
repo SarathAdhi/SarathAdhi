@@ -11,6 +11,13 @@
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaboration
 - ⚡ Hobbies: cricket, web designing, planting, video editing
 
+<h1 id="heading"></h1>
+
+```js
+  document.getElementbyId('heading').innerHTML = "Hello";
+    ```
+
+
 ## 👨‍💻I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
