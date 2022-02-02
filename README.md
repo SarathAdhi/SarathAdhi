@@ -7,8 +7,8 @@
 
 ## 🤏Short note about me
 - 🤱👅 தமிழ் (Tamil)
+- 🐕‍🦺 Animal Lover
 - <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg" title="My College">
-- 
 - 🥅 2022 Goals: Should eat on time, contribute to more projects, collaborations.
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 
