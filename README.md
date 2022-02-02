@@ -13,7 +13,7 @@
 
 <h1 id="heading"></h1>
 
-<script>
+<script type="text/javascript">
   document.getElementbyId('heading').innerHTML = "Hello";
 </script>
 
