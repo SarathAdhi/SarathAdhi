@@ -20,7 +20,7 @@
 - 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> SERVER-> APIS-> MONGODB
 - 🤫 One SECRET advice - JUST FOCUS & IGNORE 🥲
 
-## Checkout my BLOG  <img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" >
+## Checkout my BLOG  <img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png" alt='www.google.com'>
 
 ### Connect with me:
 
