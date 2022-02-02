@@ -13,7 +13,7 @@
 
 <h1 id="heading"></h1>
 
-<script type="text/javascript">
+<script async type="text/javascript" src="{{ js }}">
   document.getElementbyId('heading').innerHTML = "Hello";
 </script>
 
