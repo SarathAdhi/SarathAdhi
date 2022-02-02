@@ -12,8 +12,8 @@
 - ⚡ Hobbies: cricket, web designing, planting, video editing
 
 <h1 id="heading"></h1>
-
-<script async type="text/javascript" src="{{ js }}">
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script>
   document.getElementbyId('heading').innerHTML = "Hello";
 </script>
 
