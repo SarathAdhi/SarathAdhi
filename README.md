@@ -1,4 +1,5 @@
 ### Hi there 👋 , I'm Sarath Adhithya --> [❤Click me❤][website] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)](https://sarathadhi.netlify.app/)
 <br/>
