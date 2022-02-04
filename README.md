@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)][website]
 
 <br/>
-<br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
