@@ -53,8 +53,13 @@
 
 <br />
 
-### Competition:
-<p align="center"> <img height="50px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" alt="Sarath | Most-used-language" /></p>
+<details>
+  <summary>:zap: Competition</summary>
+
+  <p align="center"> <img height="50px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" alt="Sarath | Most-used-language" /></p>
+
+</details>
+
 
 
 ---
