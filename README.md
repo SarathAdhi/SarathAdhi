@@ -54,7 +54,7 @@
 <br />
 
 ### Competition:
-![ZBC-Design-O-Club](https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg)
+<p align="center"> <img src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" alt="Sarath | Most-used-language" /></p>
 
 
 ---
