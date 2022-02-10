@@ -61,7 +61,7 @@
 <details>
   <summary>:zap: Competition</summary>
 
-  <p align="left"> <img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" alt="1st - place" map="st - place"/></p>
+  <p align="left"> <img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" alt="1st - place" tittle="st - place"/></p>
 
 </details>
 
