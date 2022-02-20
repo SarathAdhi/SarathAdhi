@@ -27,7 +27,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-    ## Connect with me:
+    <h1>Connect with me:</h1>
 
     [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
     [<img align="left" alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
