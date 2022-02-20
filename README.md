@@ -25,27 +25,30 @@
 ## Checkout my BLOG -->  [<img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">][blog]
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-## Connect with me:
 
-[<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
-[<img align="left" alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
-[<img align="left" alt="Sarath | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
-[<img align="left" alt="Sarath | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
+<div align="center">
+    ## Connect with me:
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+    [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
+    [<img align="left" alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
+    [<img align="left" alt="Sarath | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
+    [<img align="left" alt="Sarath | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
 
-## Languages:
+    ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    ## Languages:
 
-<br />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+
+    <br />
+</div>
 <br />
 <br />
 
