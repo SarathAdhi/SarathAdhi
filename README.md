@@ -24,16 +24,17 @@
 
 ## Checkout my BLOG -->  [<img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">][blog]
 
-### Connect with me:
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+## Connect with me:
 
 [<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
 [<img align="left" alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
 [<img align="left" alt="Sarath | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
 [<img align="left" alt="Sarath | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
 
-<br />
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### Languages:
+## Languages:
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
