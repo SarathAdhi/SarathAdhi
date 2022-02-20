@@ -29,10 +29,10 @@
 <div align="center">
 <h1>Connect with me:</h1>
 
-[<img align="left" alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
-[<img align="left" alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
-[<img align="left" alt="Sarath | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
-[<img align="left" alt="Sarath | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
+[<img alt="sarathadhi.netlify.app" width="30px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
+[<img alt="Sarath | Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
+[<img alt="Sarath | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
+[<img alt="Sarath | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
 
  </div>
  
