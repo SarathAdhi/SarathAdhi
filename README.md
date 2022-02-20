@@ -71,7 +71,14 @@
 
 <details>
   <summary>:zap: My GitHub Activity</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&locale=en" alt="Sarath | Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarathAdhi&%22%20alt=%22SarathAdhi" alt="Sarath | Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarathAdhi&theme=default" alt="Sarath | Stats" />
+
+ 
+</p>
 </details>
 
 <details>
