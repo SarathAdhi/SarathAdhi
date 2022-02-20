@@ -67,11 +67,6 @@
 
 <details>
   <summary>:zap: My GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-  1. Excel to database
-  2. APIs
-<!--END_SECTION:activity-->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" /></p>
 </details>
 
