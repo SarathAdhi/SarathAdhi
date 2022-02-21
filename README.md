@@ -106,7 +106,7 @@
 
 </details>
 
-<h3 align="center">𝒮𝒽𝑜𝓌 𝓈𝑜𝓂𝑒 &nbsp;❤️&nbsp; by starring some of the repositories!<br/>Want to Collab ? Feel Free to Contact me</h3>
+<h3 align="center">𝒮𝒽𝑜𝓌 𝓈𝑜𝓂𝑒 &nbsp;❤️&nbsp;𝒷𝓎 𝓈𝓉𝒶𝓇𝓇𝒾𝓃𝑔 𝓈𝑜𝓂𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓇𝑒𝓅𝑜𝓈𝒾𝓉𝑜𝓇𝒾𝑒𝓈!<br/>𝒲𝒶𝓃𝓉 𝓉𝑜 𝒞𝑜𝓁𝓁𝒶𝒷 𝑜𝓇 𝓉𝒶𝓁𝓀 ? 𝐹𝑒𝑒𝓁 𝐹𝓇𝑒𝑒 𝓉𝑜 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒</h3>
 
 [website]: https://sarathadhi.netlify.app
 [twitter]: https://twitter.com/AdhithyaSarath
