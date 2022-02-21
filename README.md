@@ -7,6 +7,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ## 🤏Short note about me
 - 🤱👅 தமிழ் (Tamil)
 - 🐕‍🦺 Animal Lover
@@ -14,13 +16,15 @@
 - ⚡ Hobbies: cricket, web designing, planting, video editing.
 - <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg" title="My College">
 
-
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 👨‍💻I'm a Web-Developer !!
 
 - 📚 I’m currently learning everything related to Web dev 🤣
 - 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> SERVER-> APIS-> MONGODB
 - 🤫 One SECRET advice - JUST FOCUS & IGNORE 🥲
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## Checkout my BLOG -->  [<img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">][blog]
 
