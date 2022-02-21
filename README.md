@@ -71,13 +71,12 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi" alt="Sarath | Most-used-language" /></p>
 
-
 <br />
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <details>
-  <summary>:zap: Competition</summary>
+  <summary>:zap: 𝕮𝖔𝖒𝖕𝖊𝖙𝖎𝖙𝖎𝖔𝖓</summary>
 
   <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-01.herokuapp.com/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
 
