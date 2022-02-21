@@ -36,7 +36,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
-<h1>Connect with me:</h1>
+<h1>𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h1>
 
 [<img alt="sarathadhi.netlify.app" width="50px" src="https://img.icons8.com/color/48/000000/internet--v2.gif" />][website]
 [<img alt="Sarath | Twitter" width="50px" src="https://img.icons8.com/color/48/000000/twitter--v2.gif" />][twitter]
@@ -50,7 +50,7 @@
 <br />
 
 <div align="center">
-<h1> Languages:</h1>
+<h1>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:</h1>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
