@@ -76,14 +76,14 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <details>
-  <summary>:zap: ℂ𝕠𝕞𝕡𝕖𝕥𝕚𝕥𝕚𝕠𝕟</summary>
+  <summary>:zap: 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</summary>
 
   <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-01.herokuapp.com/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
 
 </details>
 
 <details>
-  <summary>:zap: My GitHub Activity</summary>
+  <summary>:zap: 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝓲𝓮𝓼</summary>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&locale=en" alt="Sarath | Stats" />
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-  <summary>:zap: All My Website Links</summary>
+  <summary>:zap: 𝓜𝔂 𝓦𝓮𝓫𝓼𝓲𝓽𝓮 𝓛𝓲𝓷𝓴𝓼</summary>
 
   ## My portfolio  -> https://sarathadhi.netlify.app
   ## HelperDOC     -> https://helperdoc.herokuapp.com/
@@ -106,7 +106,7 @@
 
 </details>
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!<br/>Want to Collab ? Feel Free to Contact me</h3>
+<h3 align="center">𝒮𝒽𝑜𝓌 𝓈𝑜𝓂𝑒 &nbsp;❤️&nbsp; by starring some of the repositories!<br/>Want to Collab ? Feel Free to Contact me</h3>
 
 [website]: https://sarathadhi.netlify.app
 [twitter]: https://twitter.com/AdhithyaSarath
