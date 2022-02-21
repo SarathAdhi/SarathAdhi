@@ -27,9 +27,9 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
- <h1>𝒞𝒽𝑒𝒸𝓀☯𝓊𝓉 𝓂𝓎 𝐵𝐿❤𝒢</h1>
+ <h1>𝓒𝓱𝓮𝓬𝓴𝓸𝓾𝓽 𝓶𝔂 𝓑𝓛𝓞𝓖</h1>
  
-[<img width="25px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">][blog]
+[<img width="50px" src="https://cdn.freebiesupply.com/images/large/2x/blogger-logo-transparent.png">][blog]
  
 </div>
 
