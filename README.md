@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Sarath Adhithya ❤
+### 🎀  𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋 , 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓉𝒽 𝒜𝒹𝒽𝒾𝓉𝒽𝓎𝒶 ❤  🎀
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)][website]
@@ -9,11 +9,11 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 🤏Short note about me
-- 🤱👅 தமிழ் (Tamil)
-- 🐕‍🦺 Animal Lover
-- 🥅 2022 Goals: Should eat on time, contribute to more projects, collaborations.
-- ⚡ Hobbies: cricket, web designing, planting, video editing.
+## 🤏𝓢𝓱𝓸𝓻𝓽 𝓷𝓸𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
+- 🤱👅 தமிழ் (𝚃𝚊𝚖𝚒𝚕)
+- 🐕‍🦺 𝙰𝚗𝚒𝚖𝚊𝚕 𝙻𝚘𝚟𝚎𝚛
+- 🥅 𝟸𝟶𝟸𝟸 𝙶𝚘𝚊𝚕𝚜: 𝚂𝚑𝚘𝚞𝚕𝚍 𝚎𝚊𝚝 𝚘𝚗 𝚝𝚒𝚖𝚎, 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚖𝚘𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
+- ⚡ 𝙷𝚘𝚋𝚋𝚒𝚎𝚜: 𝚌𝚛𝚒𝚌𝚔𝚎𝚝, 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐, 𝚙𝚕𝚊𝚗𝚝𝚒𝚗𝚐, 𝚟𝚒𝚍𝚎𝚘 𝚎𝚍𝚒𝚝𝚒𝚗𝚐.
 - <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg" title="My College">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
