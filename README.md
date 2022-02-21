@@ -18,7 +18,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-## 👨‍💻I'm a Web-Developer !!
+## 👨‍💻I'm a 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓦𝓮𝓫 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻
 
 - 📚 I’m currently learning everything related to Web dev 🤣
 - 📝 My learning path - HTML-> CSS-> PHP-> MYSQL-> JAVASCRIPT-> JQUERY-> REACTJS-> FRAMEWORKS-> SERVER-> APIS-> MONGODB
