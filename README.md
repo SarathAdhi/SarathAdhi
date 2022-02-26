@@ -1,7 +1,7 @@
 ## 🎀  𝐻𝒾 𝓉𝒽𝑒𝓇𝑒 👋 , 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓉𝒽 𝒜𝒹𝒽𝒾𝓉𝒽𝓎𝒶 ❤  🎀
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Website](https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app)][website]
+[<img height="30" src="https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app" />][website]
 
 <br/>
 
