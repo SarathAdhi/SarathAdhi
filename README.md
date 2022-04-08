@@ -74,7 +74,7 @@
 <br />
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi&layout=compact&langs_count=10&theme=tokyonight&show_icons=true" alt="Sarath | Most-used-language" /></p>
+<p align="center"> <img width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi&layout=compact&langs_count=10&theme=tokyonight&show_icons=true" alt="Sarath | Most-used-language" /></p>
 
 <br />
 
