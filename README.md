@@ -51,7 +51,7 @@
 <br />
 
 <div align="center">
-<h1>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:</h1>
+<h1>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼, 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 & 𝓣𝓸𝓸𝓵𝓼:</h1>
  
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
