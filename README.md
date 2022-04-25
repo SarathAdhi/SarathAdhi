@@ -87,7 +87,7 @@
 <details>
   <summary>:zap: 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</summary>
 
-  <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-01.herokuapp.com/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
+  <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-sarath.netlify.app/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
 
 </details>
 
