@@ -113,7 +113,7 @@
   ## Quiz          -> https://sarathadhi.github.io/Quiz_js_API/
   ## CodesInfo     -> Currently working
   ## Blog          -> Currently working
-  https://docs.google.com/document/d/1qFYHYWmu8c1_vk72Z4yWFE7d2zwnopPqq-9wLxzlUTE/edit?usp=sharing
+  https://drive.google.com/drive/folders/1Nh-sPkO26W-TNkrrFXrYAIPZ6GUzSbSM?usp=sharing
 
 
 </details>
