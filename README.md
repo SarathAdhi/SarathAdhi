@@ -39,10 +39,10 @@
 <h1>𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h1>
 
  
-[<img alt="sarathadhi" width="50px" src="https://img.icons8.com/color/48/000000/internet--v2.png" />][website]
+[<img alt="sarathadhi" width="50px" src="https://camo.githubusercontent.com/c9ee211ec2eeb99c4c99d79ace81fd4a8af22bfd6bdfca69b3f9d7c46fcfee5f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f732e737667" />][website]
 [<img alt="Sarath | Twitter" width="50px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
-[<img alt="Sarath | LinkedIn" width="50px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.gif" />][linkedin]
-[<img alt="Sarath | Instagram" width="50px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.gif" />][instagram]
+[<img alt="Sarath | LinkedIn" width="50px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />][linkedin]
+[<img alt="Sarath | Instagram" width="50px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />][instagram]
 
  </div>
  
