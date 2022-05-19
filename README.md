@@ -61,10 +61,12 @@
 <img width="50px" src="https://user-images.githubusercontent.com/91727830/169335230-c7ce764c-d7bb-4e5d-b16d-936fdc86baae.png" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img width="50px" src="https://user-images.githubusercontent.com/91727830/169334475-7d83025e-9718-4954-811f-00e2bd77df66.png" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img width="50px" src="https://user-images.githubusercontent.com/91727830/169336153-4164a449-6b58-4b0e-9b6b-06c26867a91f.png" />
 <img width="50px" src="https://user-images.githubusercontent.com/91727830/169334028-288906a6-5725-4fe1-bd0f-e2c0883c77ae.png" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" />
