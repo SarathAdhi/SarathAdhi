@@ -1,7 +1,4 @@
 ## 🎀<img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Sarath+Adhithya" />🎀
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img height="30" src="https://img.shields.io/website?label=My-Portfolio&style=for-the-badge&url=https%3A%2F%2Fsarathadhi.netlify.app" />][website]
 
 <br/>
 
