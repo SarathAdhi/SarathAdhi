@@ -11,7 +11,7 @@
 - 🐕‍🦺 𝙰𝚗𝚒𝚖𝚊𝚕 𝙻𝚘𝚟𝚎𝚛
 - 🥅 𝟸𝟶𝟸𝟸 𝙶𝚘𝚊𝚕𝚜: 𝚂𝚑𝚘𝚞𝚕𝚍 𝚎𝚊𝚝 𝚘𝚗 𝚝𝚒𝚖𝚎, 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚖𝚘𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
 - ⚡ 𝙷𝚘𝚋𝚋𝚒𝚎𝚜: 𝚌𝚛𝚒𝚌𝚔𝚎𝚝, 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐, 𝚙𝚕𝚊𝚗𝚝𝚒𝚗𝚐, 𝚟𝚒𝚍𝚎𝚘 𝚎𝚍𝚒𝚝𝚒𝚗𝚐.
-- <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://vit.ac.in/icetite/img/vit_logo-2.jpg" title="My College">
+- <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://images.shiksha.com/mediadata/images/articles/1583124354phpJTtnK5.png" title="My College">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -90,6 +90,13 @@
   <summary>:zap: 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</summary>
 
   <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-sarath.netlify.app/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
+
+</details>
+
+<details>
+  <summary>:zap: 𝓒𝓸𝓭𝓲𝓷𝓰 𝓼𝓽𝓪𝓽𝓼 </summary>
+
+  <p align="left"><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/7d81e8a6-0efa-44ea-b1ae-db9178f8a6fa.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/47d9c754-26be-46cd-8c8a-3dcb8540bd05.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/8e2c716d-3c9f-4f0c-aaf7-3d3ec54a1bf0.svg" tittle=""/></p>
 
 </details>
 
