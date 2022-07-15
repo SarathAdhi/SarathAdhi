@@ -75,12 +75,21 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
  
 </div>
-<br />
 
-<br />
 <br />
 
 <p align="center"> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&hide=jupyter%20notebook" alt="Sarath | Most-used-language" /></p>
+
+<br />
+
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarathAdhi&%22%20alt=%22SarathAdhi" alt="Sarath | Stats" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarathAdhi&theme=default" alt="Sarath | Stats" />
+ <img src="https://github-profile-trophy.vercel.app/?username=SarathAdhi" alt="Sarath | Stats" />
+</p>
 
 <br />
 
@@ -96,21 +105,8 @@
 <details>
   <summary>:zap: 𝓒𝓸𝓭𝓲𝓷𝓰 𝓼𝓽𝓪𝓽𝓼 </summary>
 
-  <p align="left"><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/7d81e8a6-0efa-44ea-b1ae-db9178f8a6fa.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/47d9c754-26be-46cd-8c8a-3dcb8540bd05.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/8e2c716d-3c9f-4f0c-aaf7-3d3ec54a1bf0.svg" tittle=""/></p>
+  <p align="center"><img height="200px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/7d81e8a6-0efa-44ea-b1ae-db9178f8a6fa.svg" tittle=""/><img height="200px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/47d9c754-26be-46cd-8c8a-3dcb8540bd05.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/8e2c716d-3c9f-4f0c-aaf7-3d3ec54a1bf0.svg" tittle=""/></p>
 
-</details>
-
-<details>
-  <summary>:zap: 𝓜𝔂 𝓖𝓲𝓽𝓗𝓾𝓫 𝓐𝓬𝓽𝓲𝓿𝓲𝓽𝓲𝓮𝓼</summary>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SarathAdhi" alt="Sarath | Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&locale=en" alt="Sarath | Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SarathAdhi&%22%20alt=%22SarathAdhi" alt="Sarath | Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarathAdhi&theme=default" alt="Sarath | Stats" />
-
- 
-</p>
 </details>
 
 <details>
