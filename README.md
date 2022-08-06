@@ -109,19 +109,6 @@
 
 </details>
 
-<details>
-  <summary>:zap: 𝓜𝔂 𝓦𝓮𝓫𝓼𝓲𝓽𝓮 𝓛𝓲𝓷𝓴𝓼</summary>
-
-  ## My portfolio  -> https://sarathadhi.netlify.app
-  ## HelperDOC     -> https://helperdoc.herokuapp.com/
-  ## HoldUrBook    -> https://holdyourbook.herokuapp.com/index.php
-  ## Quiz          -> https://sarathadhi.github.io/Quiz_js_API/
-  ## CodesInfo     -> Currently working
-  ## Blog          -> Currently working
-  https://drive.google.com/drive/folders/1Nh-sPkO26W-TNkrrFXrYAIPZ6GUzSbSM?usp=sharing
-
-
-</details>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
