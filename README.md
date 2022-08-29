@@ -7,6 +7,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 🤏𝓢𝓱𝓸𝓻𝓽 𝓷𝓸𝓽𝓮 𝓪𝓫𝓸𝓾𝓽 𝓶𝓮
+
 - 🤱👅 தமிழ் (𝚃𝚊𝚖𝚒𝚕)
 - 🐕‍🦺 𝙰𝚗𝚒𝚖𝚊𝚕 𝙻𝚘𝚟𝚎𝚛
 - 🥅 𝟸𝟶𝟸𝟸 𝙶𝚘𝚊𝚕𝚜: 𝚂𝚑𝚘𝚞𝚕𝚍 𝚎𝚊𝚝 𝚘𝚗 𝚝𝚒𝚖𝚎, 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚖𝚘𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
@@ -35,7 +36,6 @@
 <div align="center">
 <h1>𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:</h1>
 
- 
 [<img alt="sarathadhi" width="50px" src="https://camo.githubusercontent.com/c9ee211ec2eeb99c4c99d79ace81fd4a8af22bfd6bdfca69b3f9d7c46fcfee5f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73616d73756e675f732e737667" title="Portfolio" />][website]
 [<img alt="Sarath | Twitter" width="50px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" title="Twitter" />][twitter]
 [<img alt="Sarath | LinkedIn" width="50px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" title="LinkedIn" />][linkedin]
@@ -82,6 +82,9 @@
 
 <br />
 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <p align="center">
@@ -109,9 +112,7 @@
 
 </details>
 
-
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
 
 <h3 align="center">𝒮𝒽𝑜𝓌 𝓈𝑜𝓂𝑒 &nbsp;❤️&nbsp;𝒷𝓎 𝓈𝓉𝒶𝓇𝓇𝒾𝓃𝑔 𝓈𝑜𝓂𝑒 𝑜𝒻 𝓉𝒽𝑒 𝓇𝑒𝓅𝑜𝓈𝒾𝓉𝑜𝓇𝒾𝑒𝓈!<br/>𝒲𝒶𝓃𝓉 𝓉𝑜 𝒞𝑜𝓁𝓁𝒶𝒷 𝑜𝓇 𝓉𝒶𝓁𝓀 ? 𝐹𝑒𝑒𝓁 𝐹𝓇𝑒𝑒 𝓉𝑜 𝒞𝑜𝓃𝓉𝒶𝒸𝓉 𝓂𝑒</h3>
 
@@ -120,4 +121,3 @@
 [blog]: https://sarathadhi.blogspot.com/
 [instagram]: https://www.instagram.com/sarath_adhithya/
 [linkedin]: https://www.linkedin.com/in/sarath-adhithya-145427225/
-
