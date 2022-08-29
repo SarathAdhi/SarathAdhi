@@ -101,6 +101,16 @@
 <!--END_SECTION_LANGUAGE:readme-info-->
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   8 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   42.99 %
+JavaScript   8 hrs 2 mins    ██████████░░░░░░░░░░░░░░░   39.70 %
+SCSS         3 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+R            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
