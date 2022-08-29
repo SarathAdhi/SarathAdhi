@@ -78,121 +78,115 @@
 
 <br />
 
-<p align="center"> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&hide=jupyter%20notebook" alt="Sarath | Most-used-language" /></p>
+<!-- <p align="center"> <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarathAdhi&layout=compact&langs_count=10&theme=tokyonight&show_icons=true&hide=jupyter%20notebook" alt="Sarath | Most-used-language" /></p> -->
 
 <br />
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 1,622 Contributions in the Year 2022
- > 
-> 📦 387.3 kB Used in GitHub's Storage 
- > 
+>
+> 📦 387.3 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 6 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 58 Public Repositories
+>
+> 🔑 6 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    295 commits    █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-🌆 Daytime    378 commits    ███████░░░░░░░░░░░░░░░░░░   29.39% 
-🌃 Evening    591 commits    ███████████░░░░░░░░░░░░░░   45.96% 
+🌞 Morning    295 commits    █████░░░░░░░░░░░░░░░░░░░░   22.94%
+🌆 Daytime    378 commits    ███████░░░░░░░░░░░░░░░░░░   29.39%
+🌃 Evening    591 commits    ███████████░░░░░░░░░░░░░░   45.96%
 🌙 Night      22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday       149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.59% 
-Tuesday      247 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.21% 
-Wednesday    176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Thursday     265 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61% 
-Friday       137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-Saturday     59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.59% 
+Monday       149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.59%
+Tuesday      247 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.21%
+Wednesday    176 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69%
+Thursday     265 commits    █████░░░░░░░░░░░░░░░░░░░░   20.61%
+Friday       137 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.65%
+Saturday     59 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
 Sunday       253 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   42.99% 
-JavaScript               8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.7% 
-SCSS                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-R                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+💬 Programming Languages:
+TypeScript               8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   42.99%
+JavaScript               8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.7%
+SCSS                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   14.91%
+R                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  20 hrs 16 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Hushl-v1-frontend        9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   47.05% 
-l23s-crm                 8 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   43.39% 
-frontend                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
-app                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
+🐱‍💻 Projects:
+Hushl-v1-frontend        9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   47.05%
+l23s-crm                 8 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   43.39%
+frontend                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66%
+app                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 original-portfolio       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  20 hrs 16 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               32 repos            █████████████░░░░░░░░░░░░   51.61% 
-TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
-C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
+JavaScript               32 repos            █████████████░░░░░░░░░░░░   51.61%
+TypeScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.29%
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+C++                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.06%
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.84%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/charts/bar_graph.png)
 
+Last Updated on 29/08/2022 11:48:52 UTC
 
- Last Updated on 29/08/2022 11:48:52 UTC
 <!--END_SECTION:waka-->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<p align="center">
+<details>
+  <summary>𝓖𝓲𝓽𝓱𝓾𝓫 𝓼𝓽𝓪𝓽𝓼 </summary>
+
+  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=SarathAdhi&show_icons=true&theme=radical" alt="Sarath | Stats" />
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SarathAdhi&%22%20alt=%22SarathAdhi" alt="Sarath | Stats" />
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarathAdhi&theme=default" alt="Sarath | Stats" />
  <img src="https://github-profile-trophy.vercel.app/?username=SarathAdhi" alt="Sarath | Stats" />
 </p>
 
-<br />
-
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<details>
-  <summary>:zap: 𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</summary>
-
-  <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-sarath.netlify.app/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
-
 </details>
 
 <details>
-  <summary>:zap: 𝓒𝓸𝓭𝓲𝓷𝓰 𝓼𝓽𝓪𝓽𝓼 </summary>
+  <summary>𝓒𝓸𝓶𝓹𝓮𝓽𝓲𝓽𝓲𝓸𝓷</summary>
 
-  <p align="center"><img height="200px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/7d81e8a6-0efa-44ea-b1ae-db9178f8a6fa.svg" tittle=""/><img height="200px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/47d9c754-26be-46cd-8c8a-3dcb8540bd05.svg" tittle=""/><img height="300px" src="https://wakatime.com/share/@525d04a3-b50f-42cb-9eef-b6470b472b4f/8e2c716d-3c9f-4f0c-aaf7-3d3ec54a1bf0.svg" tittle=""/></p>
+  <p align="left"> <h2>1st place in a front-end competition conducted by Zero Bugs Club (09.02.2022)</h2> <h3>https://virtual-reality-sarath.netlify.app/</h3><img height="200px" src="https://user-images.githubusercontent.com/91727830/153335102-7daf3342-7a87-4565-9c38-a9a5ee0f700a.jpeg" tittle="1st - place"/></p>
 
 </details>
 
