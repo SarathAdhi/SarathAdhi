@@ -73,7 +73,7 @@
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-390%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-429%20Thousand%20lines%20of%20code-blue)
 
@@ -156,7 +156,7 @@ Python                   3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Chart not found](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/08/2022 19:02:31 UTC
+ Last Updated on 31/08/2022 18:56:59 UTC
 <!--END_SECTION:waka-->
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
