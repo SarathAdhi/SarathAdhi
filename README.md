@@ -1,3 +1,4 @@
+
 ## 🎀 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Sarath+Adhithya" />🎀
 
 <br/>
@@ -91,20 +92,10 @@
 </td></tr></table>  
 
 <div align="center">
-<h1>𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼, 𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼 & 𝓣𝓸𝓸𝓵𝓼:</h1>
+<h1>𝓞𝓽𝓱𝓮𝓻 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 & 𝓣𝓸𝓸𝓵𝓼:</h1>
  
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img width="50px" src="https://user-images.githubusercontent.com/91727830/169335230-c7ce764c-d7bb-4e5d-b16d-936fdc86baae.png" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-<img width="50px" src="https://user-images.githubusercontent.com/91727830/169334475-7d83025e-9718-4954-811f-00e2bd77df66.png" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
