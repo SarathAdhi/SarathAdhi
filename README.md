@@ -2,11 +2,11 @@
  
 ## 🎀 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Sarath+Adhithya" />🎀
 
+ ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
+ 
  </div>
  
 <br/>
-
-![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -111,6 +111,8 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<div align="center">
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2041%20mins-blue)
 
@@ -198,6 +200,8 @@ Python                   3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  Last Updated on 02/09/2022 18:54:15 UTC
 <!--END_SECTION:waka-->
 
+</div>
+ 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <details>
