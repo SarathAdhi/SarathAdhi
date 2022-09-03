@@ -1,6 +1,9 @@
-
+<div align="center">
+ 
 ## 🎀 <img src="https://readme-typing-svg.herokuapp.com?font=Lobster&size=40&center=true&vCenter=true&width=600&height=45&lines=Hi+there+%F0%9F%91%8B+%2C+I+am+Sarath+Adhithya" />🎀
 
+ </div>
+ 
 <br/>
 
 ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
