@@ -16,7 +16,7 @@
 - 🐕‍🦺 𝙰𝚗𝚒𝚖𝚊𝚕 𝙻𝚘𝚟𝚎𝚛
 - 🥅 𝟸𝟶𝟸𝟸 𝙶𝚘𝚊𝚕𝚜: 𝚂𝚑𝚘𝚞𝚕𝚍 𝚎𝚊𝚝 𝚘𝚗 𝚝𝚒𝚖𝚎, 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚖𝚘𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜, 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
 - ⚡ 𝙷𝚘𝚋𝚋𝚒𝚎𝚜: 𝚌𝚛𝚒𝚌𝚔𝚎𝚝, 𝚠𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗𝚒𝚗𝚐, 𝚙𝚕𝚊𝚗𝚝𝚒𝚗𝚐, 𝚟𝚒𝚍𝚎𝚘 𝚎𝚍𝚒𝚝𝚒𝚗𝚐.
-- <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://images.shiksha.com/mediadata/images/articles/1583124354phpJTtnK5.png" title="My College">
+- <img height=" 40px" src="https://1.bp.blogspot.com/-5dHvHIvsyNo/WckMuod4SoI/AAAAAAAAyqg/ydxprvHnktUebUF8EQbUesAu6Y-9Go7YQCLcBGAs/s1600/SJPC.png" title="My School"><img height="40px" src="https://img.icons8.com/ios/50/000000/right--v2.gif"/><img height="40px" src="https://user-images.githubusercontent.com/91727830/213861638-d015a88f-22b8-4543-97ec-50f78aed2126.png" title="My College">
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
