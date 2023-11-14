@@ -82,8 +82,6 @@
 
 > 📦 550.0 kB Used in GitHub's Storage 
  > 
-> 🏆 657 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 98 Public Repositories 
@@ -154,7 +152,7 @@ Jupyter Notebook         4 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2023 18:38:28 UTC
+ Last Updated on 14/11/2023 18:37:22 UTC
 <!--END_SECTION:waka-->
 
 </div>
