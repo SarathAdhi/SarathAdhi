@@ -11,8 +11,15 @@
 <h1 align="center">Hi 👋, I'm Sarath Adhithya</h1>
 <h3 align="center">A passionate Frontend Developer crafting stunning frontend experiences. Your ideas, my code - turning imagination into innovation ❤️</h3>
 
+<br />
+
+<div align="center">
+ 
  ![Visitor Count](https://profile-counter.glitch.me/SarathAdhi/count.svg)
 
+</div>
+
+<br />
 
 - 🌱 I’m currently learning **DevOps**
 
