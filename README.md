@@ -87,13 +87,13 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C266%20hrs%2011%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 775.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 832 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -163,7 +163,7 @@ Java                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:43:33 UTC
+ Last Updated on 10/11/2024 18:43:35 UTC
 <!--END_SECTION:waka-->
 
 </div>
