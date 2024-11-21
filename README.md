@@ -95,8 +95,6 @@
 
 > 📦 775.8 kB Used in GitHub's Storage 
  > 
-> 🏆 833 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -130,19 +128,16 @@ Sunday                   988 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               59 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.92 % 
-JSON                     1 min               ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.36 % 
-Other                    0 secs              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 1 min          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-latest_mobile_app        54 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜   87.72 % 
-website_frontend         7 mins              ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 1 min          ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -162,7 +157,7 @@ Java                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 18:48:59 UTC
+ Last Updated on 21/11/2024 18:49:12 UTC
 <!--END_SECTION:waka-->
 
 </div>
