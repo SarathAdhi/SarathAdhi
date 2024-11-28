@@ -95,6 +95,8 @@
 
 > 📦 775.8 kB Used in GitHub's Storage 
  > 
+> 🏆 834 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 103 Public Repositories 
@@ -159,7 +161,7 @@ Java                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2024 18:50:00 UTC
+ Last Updated on 28/11/2024 18:48:50 UTC
 <!--END_SECTION:waka-->
 
 </div>
