@@ -93,7 +93,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 776.2 kB Used in GitHub's Storage 
+> 📦 776.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,7 +157,7 @@ Java                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2025 18:46:59 UTC
+ Last Updated on 12/05/2025 18:51:31 UTC
 <!--END_SECTION:waka-->
 
 </div>
