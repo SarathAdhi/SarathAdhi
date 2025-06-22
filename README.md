@@ -87,7 +87,7 @@
 <div align="center">
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -128,16 +128,17 @@ Sunday                   979 commits         ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               41 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   97.27 % 
+CSS                      1 min               ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.73 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  42 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+website                  42 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  42 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +158,7 @@ Java                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/SarathAdhi/SarathAdhi/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2025 18:48:39 UTC
+ Last Updated on 22/06/2025 18:49:08 UTC
 <!--END_SECTION:waka-->
 
 </div>
